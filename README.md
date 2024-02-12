@@ -1,5 +1,5 @@
 # Gastos
-Aplicacion en HTML y JS de gastos personales
+Aplicacion en QT de gastos personales
 
 
 ___________________________________________________________________
